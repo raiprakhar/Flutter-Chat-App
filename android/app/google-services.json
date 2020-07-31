@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "618385996191",
+    "firebase_url": "https://chatting-app-a7fdc.firebaseio.com",
+    "project_id": "chatting-app-a7fdc",
+    "storage_bucket": "chatting-app-a7fdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618385996191:android:1fcdd25775ae9595e9e5aa",
+        "android_client_info": {
+          "package_name": "raiprakhar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618385996191-pp3ctdnrg2dkbbl1aqe5255lt6lkidt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIblDnuj7baBWQ_A8Czp_rUNMcGvJUKi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618385996191-pp3ctdnrg2dkbbl1aqe5255lt6lkidt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
